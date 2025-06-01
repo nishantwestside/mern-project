@@ -18,7 +18,7 @@ A full-stack **Inventory Management System** built using the **MERN stack** (Mon
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./frontend/public/homepage.png)
+![Home Page](./frontend/public/screenshot-for-readme.png)
 
 ### ➕ Add Product Modal
 ![Add Product](./frontend/public/add-product.png)
